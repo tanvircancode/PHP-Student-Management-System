@@ -1,2 +1,2 @@
 <?php
-echo sha1('mainguy');
+echo sha1('starman');

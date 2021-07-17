@@ -1,6 +1,6 @@
 admin,bb8e25130472122c21e89493b33dba1f1d63e879,admin
-peter,ce0487f2852a2a7df0a6617fd011f4debe47fe3e,editor
+peter,f2d83348fcd0724846b60be3f9422459c21f4614,editor
 /*
 Username : admin , password : mainguy
- Username : peter , password : starlord
+ Username : peter , password : starman
  */
