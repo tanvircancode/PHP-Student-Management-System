@@ -1,2 +1,3 @@
-# This repository contains a simple crud project using PHP 7.0, Js, HTML and CSS
+### There are two panels, admin and editor. Admin can create,update and delete students and editor can only create and update students. Authentication is used. PHP 7.0, Js, HTML and CSS.
+
  
